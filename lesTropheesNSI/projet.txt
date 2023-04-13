@@ -1,0 +1,28 @@
+Le nom du projet:
+CO2, l’avenir de la planète
+
+La composition de l'équipe:
+Ethan Souvanlananh
+Kewin george
+Noa Muscat
+Manon Caldairou
+
+Le résumé du projet:
+La neutralité carbone,  la réduction des émissions, quelles conséquences sur
+la température planétaire?
+a vrai dire c’est un sujet que l’on aborde beaucoup sans réellement savoir de
+quoi cela parle, grâce à ce jeu, aux éléments intégrables
+interactivement et le quizz, ces problèmes ne seront plus un secret
+pour vous
+
+La photo de l'équipe:
+photo.png
+
+La présentation du projet, au format PDF:
+description.pdf
+
+Le lien vers le dossier technique:
+https://github.com/Nardre/ES
+
+Le lien vers la vidéo:
+https://youtu.be/tCARs1HjqEg
